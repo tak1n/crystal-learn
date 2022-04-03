@@ -1,0 +1,2 @@
+web: bin/todo_lucky
+release: lucky db.migrate
